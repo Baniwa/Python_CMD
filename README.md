@@ -41,7 +41,11 @@ Bem-vinde! Estou aqui para mostrar minha jornada prática e abrangente no mundo 
 Explorar: 
  - Web development com Flask ou Django, 
  - Machine learning com scikit-learn, 
- 
+
+
+
+ #ROADMAP 
+ ![python_page-0001](https://github.com/Baniwa/Python_CMD/assets/111711941/b9189f83-7d30-4ede-b2fd-e1ee55b9ed70)
 
 ## 🌐 Contribuição
 
